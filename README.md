@@ -2,26 +2,26 @@
 List of the courses taken during the Certificate in Data Science Program at the University of Washington https://www.pce.uw.edu/certificates/data-science
 
 
-# Course 1: DATA SCIENCE PROCESS & TOOLS
+## Course 1: DATA SCIENCE PROCESS & TOOLS
 Autumn 2019 from October 1 to December 17
-Instructor: ! [Matt Onsum] (https://www.pce.uw.edu/instructors/matt-onsum)
+Instructor: Matt Onsum https://www.pce.uw.edu/instructors/matt-onsum
 
 ### ّLesson 1: Introduction to Data Science
 * Lesson 2: Nature of Data
-## **Milestone 1: Data Flow Diagram**
-## Lesson 3: Aberrant Data
-## Lesson 4: Numeric Data
-## Lesson 5: Categorical Data
-## Lesson 6: Data Structures
-## **Milestone 2: Data Preparation**
-## Lesson 7: K-means
-## Lesson 8: Predictive Analytics
-## Lesson 9: Accuracy Measures
-## Lesson 10: Simple Statistics
-## **Milestone 3: Data Model**
+* **Milestone 1: Data Flow Diagram**
+* Lesson 3: Aberrant Data
+* Lesson 4: Numeric Data
+* Lesson 5: Categorical Data
+* Lesson 6: Data Structures
+* **Milestone 2: Data Preparation**
+* Lesson 7: K-means
+* Lesson 8: Predictive Analytics
+* Lesson 9: Accuracy Measures
+* Lesson 10: Simple Statistics
+* **Milestone 3: Data Model**
 
 
-# Course 2: DATA SCIENCE METHODS FOR DATA ANALYSIS
+## Course 2: DATA SCIENCE METHODS FOR DATA ANALYSIS
 Winter 2020 from January 7 to Mars 10
 Instructor: Stephen F. Elston https://www.pce.uw.edu/instructors/stephen-elston
 
