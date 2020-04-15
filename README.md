@@ -6,8 +6,8 @@ List of the courses taken during the Certificate in Data Science Program at the 
 Autumn 2019 from October 1 to December 17
 Instructor: ! [Matt Onsum] (https://www.pce.uw.edu/instructors/matt-onsum)
 
-## ّLesson 1: Introduction to Data Science
-## Lesson 2: Nature of Data
+### ّLesson 1: Introduction to Data Science
+* Lesson 2: Nature of Data
 ## **Milestone 1: Data Flow Diagram**
 ## Lesson 3: Aberrant Data
 ## Lesson 4: Numeric Data
