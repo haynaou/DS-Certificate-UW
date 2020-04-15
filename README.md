@@ -27,27 +27,6 @@ Winter 2020 from January 7 to Mars 10
 
 Instructor: Stephen F. Elston https://www.pce.uw.edu/instructors/stephen-elston
 
-## ّLesson 1: Data Exploration I
-## Lesson 2: Data Exploration II
-## **Milestone 1: Independent Project King County houses sales**
-## Lesson 3: Combinatorics
-## Lesson 4: Hypothesis Testing
-## Lesson 5: Introduction to Bayes
-## **Milestone 2: Independent Project King County houses sales**
-## Lesson 6: Introduction to Regression
-## Lesson 7: Regularirization
-## Lesson 8: Time Series Analysis
-## **Milestone 3: Data Model**
-## Lesson 9: Naïve Bayes
-## Lesson 10: Basic Text Analysis
-## **Milestone 4: Independent Project**
-
-
-## Course 3: DATA SCIENCE MACHINE LEARNING TECHNIQUES
-Spring 2020 from April 7 to Jun 9
-
-Instructor: Seth Mottaghinejad https://www.pce.uw.edu/instructors/seth-mottaghinejad
-
 * ّLesson 1: Data Exploration I
 * Lesson 2: Data Exploration II
 * **Milestone 1: Independent Project King County houses sales**
