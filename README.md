@@ -1,11 +1,11 @@
-# DS-Cetfiticate-UW
+# DS Certificate Program at UW
 List of the courses taken during the Certificate in Data Science Program at the University of Washington https://www.pce.uw.edu/certificates/data-science
 
 
 ## Course 1: DATA SCIENCE PROCESS & TOOLS
 Autumn 2019 from October 1 to December 17
 
-Instructor: Matt Onsum https://www.pce.uw.edu/instructors/matt-onsum
+Instructor: [Matt Onsum](https://www.pce.uw.edu/instructors/matt-onsum)
 
 * ّLesson 1: Introduction to Data Science
 * Lesson 2: Nature of Data
@@ -25,7 +25,7 @@ Instructor: Matt Onsum https://www.pce.uw.edu/instructors/matt-onsum
 ## Course 2: DATA SCIENCE METHODS FOR DATA ANALYSIS
 Winter 2020 from January 7 to Mars 10
 
-Instructor: Stephen F. Elston https://www.pce.uw.edu/instructors/stephen-elston
+Instructor: [Stephen F. Elston](https://www.pce.uw.edu/instructors/stephen-elston)
 
 * ّLesson 1: Data Exploration I
 * Lesson 2: Data Exploration II
@@ -46,7 +46,7 @@ Instructor: Stephen F. Elston https://www.pce.uw.edu/instructors/stephen-elston
 ## Course 3: DATA SCIENCE MACHINE LEARNING TECHNIQUES
 Spring 2020 from April 7 to Jun 9
 
-Instructor: Seth Mottaghinejad https://www.pce.uw.edu/instructors/seth-mottaghinejad
+Instructor: [Seth Mottaghinejad](https://www.pce.uw.edu/instructors/seth-mottaghinejad)
 
 * ّLesson 1: Machine Learning & DS Process
 * Lesson 2: Pitfalls of ML
